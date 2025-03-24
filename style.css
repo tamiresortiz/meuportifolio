@@ -3,16 +3,16 @@
     padding: 0;
 }
 
-.cabeçalho {
+.header {
     background-color: #F3E1F3;
-    color: black;
+    color: rgb(231, 27, 27);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
 
-.imagem-principal {
+.img {
     width: 20%;
     max-width: 400px; /* Define um tamanho máximo */
 }
