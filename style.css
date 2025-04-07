@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-.cabeçalho{
-    background-color: blueviolet;color: bisque;}
+.cabeçalho{background-color: blueviolet;
+    color: bisque;
+    width: 20px;
+}
     
 
