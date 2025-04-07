@@ -2,45 +2,7 @@
     margin: 0;
     padding: 0;
 }
+.cabeçalho{
+    background-color: blueviolet;color: bisque;}
+    
 
-.header {
-    background-color: #F3E1F3;
-    color: rgb(231, 27, 27);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
-}
-
-.img {
-    width: 20%;
-    max-width: 400px; /* Define um tamanho máximo */
-}
-
-.lista-principal {
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
-}
-
-.futuro {
-    background-color: cornflowerblue;
-    color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
-}
-
-.div-conteudo {
-    width: 35%;
-}
-
-.titulo {
-    padding: 24px 0;
-}
-
-.imagem-do-futuro {
-    width: 20%;
-    max-width: 400px; /* Define um tamanho máximo */
-}
