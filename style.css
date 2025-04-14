@@ -1,10 +1,22 @@
-* {
+body{
     margin: 0;
     padding: 0;
-}
-.cabeçalho{background-color: blueviolet;
-    color: bisque;
-    width: 20px;
-}
+    font-family: ;
+    background-color: aquamarine;
+    color: black;
     
-
+    }
+    
+    
+    
+    .cabeçalho{
+    background-color: aqua;
+    color: black;
+    width: 20px;
+    text-align: center;
+    }
+    .cabeçalho h1{
+    font-size: 0%;
+    color: black;
+    margin: 5%;
+    }
